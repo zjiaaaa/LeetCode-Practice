@@ -1,5 +1,3 @@
-# LeetCode-Practice
-<!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 |  |
